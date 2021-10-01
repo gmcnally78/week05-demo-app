@@ -1,0 +1,23 @@
+[
+  {
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": "2017",
+    "color": "Silver",
+    "cid": 1
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Sonic",
+    "year": "2014",
+    "color": "Silver",
+    "cid": 2
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2010",
+    "color": "Dark Metalic Grey",
+    "cid": 3
+  }
+]

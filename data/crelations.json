@@ -1,0 +1,12 @@
+[
+  {
+    "owner_cid": 2,
+    "related_cids": [1, 3],
+    "pid": 1
+  },
+  {
+    "owner_cid": 3,
+    "related_cids": [1],
+    "cid": 2
+  }
+]
